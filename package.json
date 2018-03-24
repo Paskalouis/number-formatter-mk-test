@@ -1,5 +1,5 @@
 {
-  "name": "@paskalouis/number-formatter",
+  "name": "number-formatter-mk-test",
   "version": "0.0.1",
   "description": "First published NPM Package. Mainly to parse number to locale.",
   "main": "index.js",
