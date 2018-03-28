@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Paskalouis/number-formatter.git"
+    "url": "git+https://github.com/Paskalouis/number-formatter-mk-test.git"
   },
   "keywords": [
     "number"
@@ -17,9 +17,9 @@
   "author": "Paskalouis <recoganjen@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Paskalouis/number-formatter/issues"
+    "url": "https://github.com/Paskalouis/number-formatter-mk-test/issues"
   },
-  "homepage": "https://github.com/Paskalouis/number-formatter#readme",
+  "homepage": "https://github.com/Paskalouis/number-formatter-mk-test#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "coveralls": "^3.0.0",
